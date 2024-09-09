@@ -17,6 +17,7 @@
 
 ## 計算機結構
 
+https://www.youtube.com/playlist?list=PLj6E8qlqmkFvSHyGAFqY4sX0Ee7eLqmq2
 
 
 ## 交大 ICLab
