@@ -15,6 +15,10 @@
 
 [HDLBits — Verilog Practice](https://hdlbits.01xz.net/wiki/Main_Page)
 
+[網站: Digital Design and Computer Architecture: RISC-V Edition Sarah L. Harris and David Harris](https://pages.hmc.edu/harris/ddca/ddcarv.html)
+
+
+
 ## 計算機結構
 
 https://www.youtube.com/playlist?list=PLj6E8qlqmkFvSHyGAFqY4sX0Ee7eLqmq2
