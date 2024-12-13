@@ -10,6 +10,8 @@
   - [Lectures](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule)
   - [Assignments](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=homeworks)
   - [Labs](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=labs)
+  - Basys 3
+  - [Digital - A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
 
 ## 數位邏輯設計
 [【10620王俊堯教授｜數位邏輯設計】](https://www.youtube.com/playlist?list=PLS0SUwlYe8czJbz5-sRtbuTleObQE9mOa)
