@@ -5,8 +5,11 @@
 
 ## mips
 
-[第一次自幹CPU就上手](https://github.com/GundamBox/DIY_OpenMIPS)
-
+- [第一次自幹CPU就上手](https://github.com/GundamBox/DIY_OpenMIPS)
+- Digital Design and Computer Architecture Spring 2023
+  - [Lectures](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule)
+  - [Assignments](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=homeworks)
+  - [Labs](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=labs)
 
 ## 數位邏輯設計
 [【10620王俊堯教授｜數位邏輯設計】](https://www.youtube.com/playlist?list=PLS0SUwlYe8czJbz5-sRtbuTleObQE9mOa)
