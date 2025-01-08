@@ -31,3 +31,9 @@ https://www.youtube.com/playlist?list=PLj6E8qlqmkFvSHyGAFqY4sX0Ee7eLqmq2
 
 ## 交大 ICLab
 https://github.com/hankshyu/ICLab-2023
+
+## FPGA
+[Virtual-FPGA-Lab](https://github.com/os-fpga/Virtual-FPGA-Lab) (Develop FPGA logic in your browser!)
+
+[open-source-fpga-resource](https://github.com/os-fpga/open-source-fpga-resource) (A list of resources related to the open-source FPGA projects)
+
