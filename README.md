@@ -37,3 +37,5 @@ https://github.com/hankshyu/ICLab-2023
 
 [open-source-fpga-resource](https://github.com/os-fpga/open-source-fpga-resource) (A list of resources related to the open-source FPGA projects)
 
+板子: 1BitSquared iCEBreaker
+
