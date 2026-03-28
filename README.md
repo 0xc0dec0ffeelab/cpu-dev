@@ -39,3 +39,6 @@ https://github.com/hankshyu/ICLab-2023
 
 板子: 1BitSquared iCEBreaker
 
+## Hardware
+[硬體面試學習](https://www.hardware-interview.com/study)
+
